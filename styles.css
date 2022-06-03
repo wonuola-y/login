@@ -53,6 +53,15 @@ h2{
 h3{
     font-size: 20px;
 }
+.coral{
+    color: #fc4f53;
+}
+.blue{
+    color: #5d74e6;
+}
+.orange{
+    color: #f78929;
+}
 @media  screen and (min-width: 800px) {
     body{
         overflow: scroll;
