@@ -1,0 +1,43 @@
+.or{
+    margin-top: 20px;
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    justify-content: space-between;
+}
+
+hr{
+    width: 35%;
+
+}
+p{
+    color: gray;
+    margin: 0;
+}
+b{
+    width: 90%;
+    
+}
+.options{
+    padding: 15px;
+    display: flex;
+    justify-content: space-between;
+    border: 0.3px solid gray;
+    margin-top: 10px;
+    color: gray;
+ 
+}
+ul{
+  display: flex;
+  flex-direction: column;
+  justify-content: right;
+  padding: 0;
+  
+}
+a{
+    text-decoration: none;
+}
+span{
+    font-weight: 800;
+    color: black;
+}
